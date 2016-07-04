@@ -1,7 +1,4 @@
 # Smart_Parking
 
 
-◦ Image processing done usin openCV and python.
-◦ Algorithm gets the total availability and determines the the closest empty parking slot.
-◦ The consumer app gets the availability from the cloud and using marker-based localization, the user
-is guided to the assigned parking slot
+This is a project to solve the parking problem in urban areas resorting to automation using Image processing.
